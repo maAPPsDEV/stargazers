@@ -1,0 +1,14 @@
+{
+  "name": "stargazers",
+  "version": "1.0.0",
+  "description": "List All Stargazers (who have starred my public repositories.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maAPPsDEV",
+  "dependencies": {
+    "@octokit/core": "^4.2.0",
+    "dotenv": "^16.0.3"
+  }
+}
